@@ -34,6 +34,6 @@ Hala öğrendiklerim ise,
 
 ## En çok kullandığım diller kartı
 
-> Bilin diye diyorum css burada çok olabilir ama aslında o kadar bilgim yok xd,
+> Bilin diye diyorum burada 'Hack' olarak kastettiği şey ne hiçbir fikrim yok ve boşluk nasıl koyuluyor bulamadım xd
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakureiremilia&border_color=ff5996&text_color=ffdc2e&locale=tr&title_color=ff3b62&bg_color=260215&exclude_repo=Mindustry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakureiremilia&border_color=ff5996&text_color=ffdc2e&locale=tr&title_color=ff3b62&bg_color=260215&custom_title=En_Çok_Kullandığım_Diller&exclude_repo=Mindustry)](https://github.com/anuraghazra/github-readme-stats)
