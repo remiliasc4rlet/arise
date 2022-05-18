@@ -4,7 +4,7 @@ kendisine ***Arise*** diye seslenilmesini isteyen/seven garip birisiyim.
 
 **Akdeniz Üniversitesi**nde Yüksekokul öğrencisiyim.  
 
-**DÜNYADA SADECE 2 CİNSİYET VARDIR** ve ben bu cinsiyelerden erkek olanıyım.  
+**DÜNYADA SADECE 2 CİNSİYET VARDIR** ve ben bu cinsiyetlerden erkek olanıyım.  
 
 **Yaşım** mı kaç? 20. Taliplerimi beklerim.  
 
